@@ -1,4 +1,4 @@
-## Conta Terminal
+## Conta Banco
 
 Este é um simples programa Java que simula uma aplicação bancária básica. O programa solicita informações do usuário, como nome, número da agência, número da conta e saldo. Em seguida, exibe uma mensagem de boas-vindas ao cliente com os detalhes fornecidos.
 
